@@ -1,0 +1,30 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    font-family:'Fruktur', cursive;
+}
+
+.note{
+    font-size:15px;
+    color:black;
+    font-family: 'Twinkle Star', cursive;
+}
+
+body{
+    background-size:cover;
+    text-align:center;
+}
+
+#play_button{
+    width:600px;
+    height:100px;
+    font-size:50px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+canvas{
+    border:5px dashed black;
+    border-radius:20px;
+    margin-top:100px;
+}
